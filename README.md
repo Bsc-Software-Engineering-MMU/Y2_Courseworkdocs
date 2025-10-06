@@ -46,10 +46,10 @@ This repository contains study materials for Multimedia University (MMU) Year 2 
 ## Additional Resources
 
 ### GitHub Repository
-[Insert repository link here]
+[(https://github.com/Bsc-Software-Engineering-MMU/Y2_Courseworkdocs.git)]
 
 ### MMU E-Learning Platform
-[Insert e-learning platform link here]
+[(https://elearning.mmu.ac.ke/login/index.php)]
 
 *Note: More detailed course materials, assignments, and resources can be found on the MMU e-learning platform. Make sure to check regularly for updates and announcements.*
 
