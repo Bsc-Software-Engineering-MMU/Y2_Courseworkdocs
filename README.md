@@ -2,9 +2,16 @@
 [(https://github.com/Bsc-Software-Engineering-MMU/Y2_Courseworkdocs.git)]
 It is essential as a software engineer to farmiliarize yourself with version control tools such as github.
 
+### Google cloud storage bsegrad2028@gmail.com
+[https://drive.google.com/drive/folders/130Py-u7MoVEp4qFTCdSzN0xnEr9_KQDh?usp=sharing]
+
 # MMU Year 2 Semester 1 Study Materials
 
 This repository contains study materials for Multimedia University (MMU) Year 2 Semester 1 courses (September - December 2025).
+
+### MMU E-Learning Platform
+[(https://elearning.mmu.ac.ke/login/index.php)]
+
 
 ## Course Materials
 
